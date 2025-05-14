@@ -19,6 +19,10 @@ PCB design files
 Component list
 
 Demo images
+--------------------------------------------------
+
+Youtube Video:
+https://youtu.be/Ud8z95YmrfY
 
 Feel free to fork, modify, and use it in your own projects.
 ⭐ Star this repo if you find it useful!
